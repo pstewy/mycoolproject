@@ -1,1 +1,1 @@
-My cool projet.
+My cool project.
